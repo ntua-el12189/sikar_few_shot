@@ -1,0 +1,26 @@
+{
+    "class_names": [
+        "008.Rhinoceros_Auklet",
+        "009.Brewer_Blackbird",
+        "015.Lazuli_Bunting",
+        "020.Yellow_breasted_Chat",
+        "028.Brown_Creeper",
+        "030.Fish_Crow",
+        "035.Purple_Finch",
+        "039.Least_Flycatcher",
+        "045.Northern_Fulmar",
+        "046.Gadwall"
+    ],
+    "class_roots": [
+        "./data/CUB/images/008.Rhinoceros_Auklet",
+        "./data/CUB/images/009.Brewer_Blackbird",
+        "./data/CUB/images/015.Lazuli_Bunting",
+        "./data/CUB/images/020.Yellow_breasted_Chat",
+        "./data/CUB/images/028.Brown_Creeper",
+        "./data/CUB/images/030.Fish_Crow",
+        "./data/CUB/images/035.Purple_Finch",
+        "./data/CUB/images/039.Least_Flycatcher",
+        "./data/CUB/images/045.Northern_Fulmar",
+        "./data/CUB/images/046.Gadwall"
+    ]
+}

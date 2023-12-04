@@ -1,0 +1,19 @@
+{
+    "class_names": [
+        "001.Black_footed_Albatross",
+        "002.Laysan_Albatross",
+        "004.Groove_billed_Ani",
+        "010.Red_winged_Blackbird",
+        "011.Rusty_Blackbird",
+        "013.Bobolink"
+
+    ],
+    "class_roots": [
+        "./data/CUB/images/001.Black_footed_Albatross",
+        "./data/CUB/images/002.Laysan_Albatross",
+        "./data/CUB/images/004.Groove_billed_Ani",
+        "./data/CUB/images/010.Red_winged_Blackbird",
+        "./data/CUB/images/011.Rusty_Blackbird",
+        "./data/CUB/images/013.Bobolink"
+    ]
+}

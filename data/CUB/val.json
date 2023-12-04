@@ -1,0 +1,18 @@
+{
+    "class_names": [
+        "044.Frigatebird",
+        "051.Horned_Grebe",
+        "052.Pied_billed_Grebe",
+        "055.Evening_Grosbeak",
+        "057.Rose_breasted_Grosbeak",
+        "061.Heermann_Gull"
+    ],
+    "class_roots": [
+        "./data/CUB/images/044.Frigatebird",
+        "./data/CUB/images/051.Horned_Grebe",
+        "./data/CUB/images/052.Pied_billed_Grebe",
+        "./data/CUB/images/055.Evening_Grosbeak",
+        "./data/CUB/images/057.Rose_breasted_Grosbeak",
+        "./data/CUB/images/061.Heermann_Gull"
+    ]
+}
